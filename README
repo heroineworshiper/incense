@@ -28,7 +28,9 @@ incense10.FCStd: block 1 starship incense holder
 incense15.FCStd: block 2 starship incense holder
     - just the booster
     uses 6 m2.6 x 6mm screws
-    booster mane - .32 layers
+    booster mane - .32 layers .4 nozzle
+    the rest uses .2 layers
+    cover - needs to be printed end on to be strong enough or CA laminated
     plunger - .4 line width, .8 wall thickness to get it to bridge
     stick holder - uses 2 2x14mm magnets
     
