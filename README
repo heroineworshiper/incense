@@ -37,8 +37,9 @@ incense15.FCStd: block 2 starship incense holder
 incense14.FCStd: table top backflow incense holder
     - must be PETG with epoxy lining
 
-backflow5.FCStd: backflow incense diorama with mechzilla
-    - must be PETG with epoxy lining the trouble spots
+backflow7.FCStd: backflow incense diorama with mechzilla
+    - must be HT PLA, .32 layers, .4 lines, 230C nozzle
+    - only support for the nose fins
 
 
 
